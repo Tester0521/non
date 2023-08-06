@@ -3,7 +3,7 @@
 <div align="center">
     <img align="center" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" height="128" /></h1>
     <p>I'm a beginner developer</p>
-    <a href="https://github.com/tester0521/"><img src="https://github.com/blackcater/blackcater/raw/main/images/social-github.svg" height='64' /></a>
+    <a href="https://github.com/tester0521/" height="64"><img src="https://github.com/blackcater/blackcater/raw/main/images/social-github.svg" height='64' /></a>
 </div>
 
 
