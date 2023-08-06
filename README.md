@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/hypoqrite" target="_blank">Dmitry</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="64" height="32"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="32" height="32"/></h1>
 <div align="center">
     <img align="center" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="256" height="128" /></h1>
     <p>I'm a beginner developer</p>
